@@ -1,6 +1,6 @@
 <div>
-  <h1> Hi, I’m Malte </h1>
-  <img align="right" width="22px" src="MW_Dev_Dunke.png">
+  <h1 display="inline-block" float="right"> Hi, I’m Malte </h1>
+  <img float="left" width="50px" src="MW_Dev_Dunke.png">
 </div>
 
 
