@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @osbad28
+- 👋 Hi, I’m Malte
 - 👀 I’m interested in HTML/CSS/JS/MySql/VBA.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
