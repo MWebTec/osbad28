@@ -1,5 +1,5 @@
 <div>
-  <h1 display="inline-block" float="right"> Hi, I’m Malte </h1>
+  <h1 display="inline-block" width="50%" float="right"> Hi, I’m Malte </h1>
   <img float="left" width="50px" src="MW_Dev_Dunke.png">
 </div>
 
