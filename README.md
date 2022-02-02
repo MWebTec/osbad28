@@ -1,6 +1,6 @@
 <h1> Hi, I’m Malte </h1>
 
-<img align="center" width="22px" src="">
+<img align="center" width="22px" src="MW_Dev_Dunke.png">
 
 <p> I'm 30 Years Old and Live in Germany. </p>
 
