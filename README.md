@@ -9,8 +9,7 @@
 
 
 - 👀 I’m interested in HTML/CSS/JS/MySql/VBA/Java.
-- 🌱 I’m currently learning JavaScript.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning JavaScript and React.
 
 
 <!---
