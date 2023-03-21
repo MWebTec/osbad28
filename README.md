@@ -8,7 +8,7 @@
 <p> I'm 31 Years Old and Live in Germany. </p>
 
 
-- 👀 I’m interested in HTML/CSS/JS/MySql/VBA/Java.
+- 👀 I’m interested in HTML/CSS/SCSS/JS/MySql/VBA/Java.
 - 🌱 I’m currently learning JavaScript and React.
 
 
