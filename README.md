@@ -11,7 +11,7 @@
   <p align="center"> My Current Skills: </p>
     <p align="center"> 
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+        <img src="https://skillicons.dev/icons?i=html, css, scss, js, php, git," />
       </a>
     </p>
 </div>
