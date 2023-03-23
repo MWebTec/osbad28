@@ -8,12 +8,12 @@
 - 🌱 I’m currently learning JavaScript and React, and make .
 
 <div>
-  <p>My Current Skills:</p>
+  <p align="center">My Current Skills:</p>
   <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    </a>
+  </p>
 </div>
 
 
