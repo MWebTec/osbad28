@@ -11,7 +11,7 @@
   <p align="center"> My Current Skills: </p>
     <p align="center"> 
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,scss,js,php," />
+        <img src="https://skillicons.dev/icons?i=html,css,scss,js,php,sql,vba" />
       </a>
     </p>
 </div>
@@ -20,7 +20,7 @@
    <p align="center">My current technologies used:</p> 
     <p align="center"> 
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,bootstrap," />
+        <img src="https://skillicons.dev/icons?i=git,bootstrap,electron" />
       </a>
     </p>
 </div>
