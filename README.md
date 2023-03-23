@@ -1,18 +1,20 @@
 
 <h1> Hi, I’m Malte...   <img width="50px" src="MW_Dev_Dunke.png"> </h1>
-  
+<h2> I'm 31 Years Old and Live in Germany. </h2>
 
-
-
-
-<p> I'm 31 Years Old and Live in Germany. </p>
 
 
 - I’m am currently developing several small private/professional projects
-- 👀 I’m interested in HTML/CSS/SCSS/JS/MySql/VBA/Java.
-- 🌱 I’m currently learning JavaScript and React.
+- 🌱 I’m currently learning JavaScript and React, and make .
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<div>
+  <p>My Current Skills:</p>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+</div>
 
 
 <!---
