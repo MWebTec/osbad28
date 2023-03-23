@@ -3,9 +3,7 @@
 <h2> I'm 31 Years Old and Live in Germany. </h2>
 
 
-
 - I’m am currently developing several small private/professional projects
-- 🌱 I’m currently learning JavaScript and React, and make .
 
 <div>
   <p align="center"> My Current Skills: </p>
