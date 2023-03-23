@@ -8,8 +8,11 @@
 <p> I'm 31 Years Old and Live in Germany. </p>
 
 
+- I’m am currently developing several small private/professional projects
 - 👀 I’m interested in HTML/CSS/SCSS/JS/MySql/VBA/Java.
 - 🌱 I’m currently learning JavaScript and React.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 <!---
