@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning JavaScript and React, and make .
 
 <div>
-  <p align="center">My Current Skills:</p>
   <p align="center">
+    <p>My Current Skills:</p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
     </a>
