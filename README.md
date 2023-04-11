@@ -18,7 +18,7 @@
    <p align="center">My current technologies used:</p> 
     <p align="center"> 
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,bootstrap,electron, vue.js" />
+        <img src="https://skillicons.dev/icons?i=git,bootstrap,electron,vue" />
       </a>
     </p>
 </div>
